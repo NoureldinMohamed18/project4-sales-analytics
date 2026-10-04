@@ -1,0 +1,8 @@
+flask>=3.0
+pandas>=2.0
+numpy>=1.26
+matplotlib>=3.8
+seaborn>=0.13
+plotly>=5.20
+dash>=2.16
+pytest>=8.0
